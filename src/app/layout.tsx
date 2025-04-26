@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GymPlan.ai",
+  title: "CodeFlex.ai",
   description: "Mdern fitness ai plarform toget jacked",
 };
 
